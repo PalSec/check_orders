@@ -2,4 +2,6 @@
     <string name="app_name">check_orders</string>
     <string name="title">check_order</string>
     <string name="button_connect">Connect</string>
+    <string name="button_close">Close</string>
+    <string name="button_refresh">Refresh</string>
 </resources>
