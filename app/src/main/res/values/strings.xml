@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">check_orders</string>
+    <string name="title">check_order</string>
+    <string name="button_connect">Connect</string>
+</resources>
